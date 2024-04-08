@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marta
+- 👀 I’m interested in UX/UI Design and Frontend Development
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m looking to collaborate on any project that requires a fresh design
